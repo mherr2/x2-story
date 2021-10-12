@@ -1,0 +1,1 @@
+In a bustling midwestern town, a young man sets off to learn more about object oriented programming. His name is Mike and he will soon realize how different object oriented languages are from procedural languages.
