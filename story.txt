@@ -1,1 +1,3 @@
 In a bustling midwestern town, a young man sets off to learn more about object oriented programming. His name is Mike and he will soon realize how different object oriented languages are from procedural languages.
+
+Mike began his adventure by visiting a small town called Java, where he learned about objects, interfaces, and runtime complexity.
