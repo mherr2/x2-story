@@ -5,3 +5,5 @@ Mike began his adventure by visiting a small town called Java, where he learned 
 Objects helped him understand how languages create, and utilize pieces of code that Mike would create to build unique data structures. Objects allowed
 him to define unique pieces with different primitive values. Interfaces gave Mike the ability to utilize different Object types with newly made
 objects, and Runtime Complexity shows how code runs within a computer giving him the tools to successfully write efficient code.
+
+With his new found knowledge and a bit of hard work, Mike was on his was to discover a whole new world of possibilities.
