@@ -1,3 +1,7 @@
 In a bustling midwestern town, a young man sets off to learn more about object oriented programming. His name is Mike and he will soon realize how different object oriented languages are from procedural languages.
 
 Mike began his adventure by visiting a small town called Java, where he learned about objects, interfaces, and runtime complexity.
+
+Objects helped him understand how languages create, and utilize pieces of code that Mike would create to build unique data structures. Objects allowed
+him to define unique pieces with different primitive values. Interfaces gave Mike the ability to utilize different Object types with newly made
+objects, and Runtime Complexity shows how code runs within a computer giving him the tools to successfully write efficient code.
